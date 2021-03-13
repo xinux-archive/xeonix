@@ -1,5 +1,7 @@
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
+
+## Base Packages
 alsa-utils
 amd-ucode
 arch-install-scripts
@@ -103,18 +105,37 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+## Wireless & LAN
 networkmanager
 network-manager-applet
+
+## Bluetooth
 bluez
 bluez-utils
+
+## Printers
 cups
+
+## Graphic Drivers 
 xf86-video-qxl
 xf86-video-intel
 xf86-video-amdgpu
 nvidia
+
+## Display Manager
 xorg
+
+## Desktop Environment
 gdm
 gnome
 gnome-tweaks
-firefox
-neofetch
+
+## Extra Applications
+chromium
+chrome-gnome-shell
+
+## Xinux Applications
+flat-remix
+flat-remix-gtk
+flat-remix-gnome
