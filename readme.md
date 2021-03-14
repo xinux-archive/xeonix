@@ -14,7 +14,7 @@
 > bo'lsangiz, shu [(proyektga)](/) ssilka qoldirishingiz shartdir. Agar siz shu
 > manbaga o'zgartirish kiritsangiz va o'zingizniki qilib olsangiz, manbaning
 > bosh manbasiga ssilka qoldirishingiz CC0 1.0 Universal litzensiyasi bo'yicha 
-> darmoqdir. Ko'proq ma'lumotga ega bo'lish uchun [LICENSE](LICENSE) ni ko'zdan 
+> darmoqdir. Ko'proq ma'lumotga ega bo'lish uchun [LICENSE](license) ni ko'zdan 
 > kechiring.
 
 <p align="center">Barcha huquqlar himoyalangan &copy; 2021 <a href="https://xinux.uz" target="_blank">Xinux Jamiyati</a></p>
