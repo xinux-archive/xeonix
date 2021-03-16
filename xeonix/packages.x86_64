@@ -64,6 +64,7 @@ mtools
 nano
 nbd
 ndisc6
+neofetch
 nfs-utils
 nilfs-utils
 nmap
@@ -105,7 +106,12 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
+
+# The Legendary Z-Shell
 zsh
+zsh-autosuggestions
+zsh-syntax-highlighting
+zsh-theme-powerlevel10k
 
 ## Wireless & LAN
 networkmanager
