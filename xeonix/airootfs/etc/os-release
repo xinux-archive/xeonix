@@ -1,7 +1,1 @@
-NAME="Xeonix"
-PRETTY_NAME="Xeonix"
-ID=arch
-BUILD_ID=rolling
-ANSI_COLOR="38;2;0;0;0"
-HOME_URL="https://xinux.uz"
-LOGO=xeonix
+../usr/lib/os-release
