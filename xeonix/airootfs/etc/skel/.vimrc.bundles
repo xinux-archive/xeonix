@@ -1,5 +1,6 @@
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'preservim/nerdtree'
+Plugin 'codota/tabnine-vim'
 Plugin 'frazrepo/vim-rainbow'
 Plugin 'itchyny/lightline.vim'
 Plugin 'junegunn/fzf.vim'
