@@ -3,7 +3,7 @@
 
 iso_name="xeonix"
 iso_label="XEON_$(date +%Y%m)"
-iso_publisher="Genemator <https://genemator.me>"
+iso_publisher="Genemator <https://genemator.uz>"
 iso_application="Minimal linux distribution created by Genemator & Xinux Uzbekistan"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
