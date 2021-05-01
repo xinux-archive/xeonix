@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="xeonix"
-iso_label="XEON_$(date +%Y%m)"
-iso_publisher="Genemator <https://genemator.uz>"
-iso_application="Minimal linux distribution created by Genemator & Xinux Uzbekistan"
+iso_name="uzos"
+iso_label="UZOS_$(date +%Y%m)"
+iso_publisher="Anvar <https://t.me/Anvar_Alimov>"
+iso_application="Uzbek Linux translation distribution"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
